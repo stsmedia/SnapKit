@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "3AF18F9C6F5D633BAA0B3F935459E0C777C82047",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : 0,
+    "BE289447148EFA54208414E0303F83D0873A3AE9" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A9120727-7306-4189-ADAA-9CB826A3713C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "3AF18F9C6F5D633BAA0B3F935459E0C777C82047" : "SnapKit",
+    "BE289447148EFA54208414E0303F83D0873A3AE9" : ".."
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SnapKit",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "SnapKit.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:Masonry\/Snap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "3AF18F9C6F5D633BAA0B3F935459E0C777C82047"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:stsmedia\/thingbricks.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "BE289447148EFA54208414E0303F83D0873A3AE9"
+    }
+  ]
+}
